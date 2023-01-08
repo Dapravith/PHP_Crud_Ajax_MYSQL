@@ -1,0 +1,28 @@
+.container {
+  padding-top: 15px;
+}
+.rounded {
+  width: 100px;
+  padding: 20px;
+}
+.img-thumbnail {
+  width: 80px !important;
+}
+.message {
+  display: none;
+  display: flex;
+}
+#overlay {
+  background: #c44e4e;
+  color: #c7bdbd;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 5000;
+  top: 0;
+  left: 0;
+  float: left;
+  text-align: center;
+  padding-top: 25%;
+  opacity: 0.8;
+}

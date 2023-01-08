@@ -33,3 +33,7 @@ point to the:
 http://localhost/phpcrudajax
 
 ```
+Demo
+![image](https://user-images.githubusercontent.com/90898700/211184297-2d6af8dc-76e4-4826-83f1-32469c62ab54.png)
+![image](https://user-images.githubusercontent.com/90898700/211184304-ac0444d4-d871-4459-8c3a-a73bae5c46d1.png)
+
